@@ -3,7 +3,7 @@
 
 > Open this page at [https://pelikhan.github.io/pizza3/](https://pelikhan.github.io/pizza3/)
 
-## Use as Extension
+## Use as Extension 5
 
 This repository can be added as an **extension** in MakeCode.
 
